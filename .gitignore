@@ -6,3 +6,4 @@
 *.bat
 *.csv
 *.txt
+.DS_Store
